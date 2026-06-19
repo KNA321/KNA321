@@ -23,10 +23,6 @@
  <h2>Fin de la dictadura</h2>
  <p>La dictadura en Paraguay llegó a su fin en 1989 con un golpe de estado que derrocó a Alfredo Stroessner. Desde entonces, el país ha experimentado una transición hacia la democracia, aunque aún enfrenta desafíos relacionados con la corrupción y la consolidación institucional.</p>
 
- <video src="video/EL ASCENSO DE STROESSNER  EL GOLPE DE 1954 - Mauri Martínez (1080p, h264).mp4" 
-    type="video/mp4" width="350px" height="200px" controls>
- </video>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TtwOKP6EHKk?si=h0ZWuKwS9j_5lznA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </body>

@@ -1,60 +1,33 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Higiene del Sueño</title>
+    <title>Dictadura de Paraguay</title>
 </head>
 <body>
-    <div class="container">
-        <h1>Higiene del Sueño</h1>
-        <p>La higiene del sueño es el conjunto de hábitos y prácticas que favorecen un sueño saludable y reparador. Implica una serie de rutinas y condiciones que ayudan a mejorar la calidad del descanso y prevenir trastornos del sueño como el insomnio.</p>
-        <p><strong>Principales recomendaciones de higiene del sueño:</strong></p>
-        <p>1️⃣ <strong>Mantener un horario regular:</strong> Acostarse y despertarse a la misma hora todos los días, incluso los fines de semana.</p>
-        <p>2️⃣ <strong>Crear un ambiente adecuado:</strong> Dormir en un lugar oscuro, fresco, silencioso y cómodo.</p>
-        <p>3️⃣ <strong>Evitar pantallas antes de dormir:</strong> La luz azul de dispositivos electrónicos puede alterar la producción de melatonina, la hormona del sueño.</p>
-        <p>4️⃣ <strong>Limitar la cafeína y el alcohol:</strong> Especialmente en la tarde o noche, ya que pueden afectar el descanso.</p>
-        <p>5️⃣ <strong>Realizar actividad física regularmente:</strong> Pero evitar el ejercicio intenso justo antes de dormir.</p>
-        <p>6️⃣ <strong>Establecer una rutina relajante:</strong> Leer, meditar o tomar un baño caliente antes de acostarse puede ayudar a conciliar el sueño.</p>
-        <p>7️⃣ <strong>Evitar siestas largas:</strong> No dormir más de 20-30 minutos durante el día.</p>
-        <p>8️⃣ <strong>Usar la cama solo para dormir:</strong> Evitar trabajar o ver televisión en la cama para asociarla solo con el descanso.</p>
-    </div>
-      <style>
-        body {
-            margin: 0;
-            padding: 0;
-            background: url('https://images.unsplash.com/photo-1448375240586-882707db888b') no-repeat center center fixed;
-            background-color: black; /* Fondo negro por si la imagen no carga */
-            background-size: cover;
-            font-family: Arial, sans-serif;
-            color: white;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            text-align: center;
-            padding: 20px;
-            box-sizing: border-box;
-        }
-        .container {
-            background: rgba(128, 0, 128, 0.8); /* Morado con transparencia */
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-            max-width: 600px;
-            text-align: center;
-            overflow-y:auto;
-            max-height: 90vh;
-        }
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 20px;
-        }
-        p {
-            font-size: 1.2rem;
-            margin: 10px 0;
-            text-align: left;
-        }
-    </style>
+    <h1>Dictadura de Paraguay</h1>
+    <p>La dictadura de Paraguay se refiere al período de gobierno autoritario que tuvo lugar en Paraguay durante gran parte del siglo XX. Este período estuvo marcado por la falta de libertades civiles, la represión política y la concentración del poder en manos de un líder o un grupo reducido.</p>
+
+<h2>Contexto histórico</h2>
+ <p>Paraguay experimentó la dictadura más larga de América Latina, la de Alfredo Stroessner, quien gobernó desde 1954 hasta 1989. Durante su régimen, Stroessner implementó políticas autoritarias, suprimió la oposición política y mantuvo un control férreo sobre los medios de comunicación.</p>
+
+ <h2>Características de la dictadura</h2>
+ <ul>
+        <li>Represión política: La oposición era perseguida y encarcelada, y se utilizaban métodos violentos para silenciar a los disidentes.</li>
+        <li>Censura: Los medios de comunicación estaban bajo control estatal, lo que limitaba la libertad de expresión y la difusión de información crítica.</li>
+        <li>Corrupción: El régimen estaba marcado por altos niveles de corrupción, con el enriquecimiento ilícito de los líderes y sus allegados.</li>
+        <li>Violaciones a los derechos humanos: Se cometieron numerosas violaciones a los derechos humanos, incluyendo torturas, desapariciones forzadas y ejecuciones extrajudiciales.</li>
+ </ul>
+
+ <h2>Fin de la dictadura</h2>
+ <p>La dictadura en Paraguay llegó a su fin en 1989 con un golpe de estado que derrocó a Alfredo Stroessner. Desde entonces, el país ha experimentado una transición hacia la democracia, aunque aún enfrenta desafíos relacionados con la corrupción y la consolidación institucional.</p>
+
+ <video src="video/EL ASCENSO DE STROESSNER  EL GOLPE DE 1954 - Mauri Martínez (1080p, h264).mp4" 
+    type="video/mp4" width="350px" height="200px" controls>
+ </video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TtwOKP6EHKk?si=h0ZWuKwS9j_5lznA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </body>
 </html>
